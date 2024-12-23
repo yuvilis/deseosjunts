@@ -1,0 +1,34 @@
+main{
+    text-shadow: 1px 1px 2px rgb(255, 3, 171), 0 0 1em  rgb(255, 154, 226),0 0 1em rgb(255, 154, 226);
+    text-align: center;
+    background-color: rgb(255, 171, 238);
+    margin: 15px;
+    font-size: 35px;
+    
+}
+
+.list{
+   text-align: center;
+   font: oblique bold 160% cursive;
+   margin-top: -2%;
+}
+   
+body{
+    margin: 25px;
+}
+.uno{
+    margin-left: 550px;
+    width: 380px;
+    margin-top: -7%;
+}
+
+.agregar{
+    margin-left: -10px;
+    margin-top: -1000px ;
+    width: 300px;
+    height: 600px;
+    background: linear-gradient(to bottom, #f9a7ca, #f6e1b9, #9fdcf6, #edb4f1);
+    font: oblique bold 170% cursive;
+}
+
+
